@@ -73,3 +73,5 @@ python3 -m unittest discover -s tests -v
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE)
+
+<img width="632" height="537" alt="Screenshot From 2026-10-22 22-09-09" src="https://github.com/user-attachments/assets/4c4b595e-6fe4-4cb0-a41c-4aed59651530" />

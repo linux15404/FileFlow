@@ -9,7 +9,7 @@ description = "🗂️ FileFlow — быстрый файловый хелпер
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Artyom (thesl33py)" }]
+authors = [{ name = "Artyom (linux15404)" }]
 keywords = ["cli", "files", "search", "rename", "duplicates"]
 classifiers = [
     "Environment :: Console",

@@ -25,7 +25,7 @@
 Нужен Python 3.10+.
 
 ```bash
-git clone https://github.com/thesl33py/FileFlow.git
+git clone https://github.com/linux15404/FileFlow.git
 cd FileFlow
 pip install .
 ```
